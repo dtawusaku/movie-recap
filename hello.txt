@@ -1,5 +1,0 @@
-Project title
-Description 
-Data sources
-
-Packages used
